@@ -2,7 +2,7 @@
 <p align="center"> fuck ... use SToServer a tool which take selected file and copied to server using rsync</p>
 
 ##
-<p align="center"> <img src="./preview.gif" alt="Video Preview" width="500px"> </p>
+<p align="center"> <img src="/demo.gif" alt="Video Preview" width="500px"> </p>
 
 ### How does this work?
 This is shell script. It select file using [dmenu](https://tools.suckless.org/dmenu/) and [rsync](https://linux.die.net/man/1/rsync) to tranfer file to server
